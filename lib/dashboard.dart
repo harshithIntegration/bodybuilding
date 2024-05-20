@@ -404,6 +404,7 @@ class _DashboardPageState extends State<DashboardPage>
               color: Colors.black,
             ),
             onPressed: () {
+              print('hi');
               advancedDrawerController.showDrawer();
             },
           ),
