@@ -47,3 +47,26 @@
 	<true/>
 </dict>
 </plist>
+
+<key>io.flutter.embedded_views_preview</key>
+<true/>
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <true/>
+</dict>
+<key>CFBundleURLTypes</key>
+<array>
+    <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+            <string>AIzaSyDuQRdj8sWUsrwCT3-mnToBVstQeZtOyf0</string>
+        </array>
+    </dict>
+</array>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>YOUR_DESCRIPTION_HERE</string>
+
+
